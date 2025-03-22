@@ -1,7 +1,7 @@
 #include<iostream>
 #include<set>
 #include<vector>
-    #include<fstream>
+#include<fstream>
 #include<algorithm>
 #include<unordered_map>
 #include<unordered_set>
