@@ -268,12 +268,6 @@ int main() {
         </ul>
       </section>
       
-      <section>
-        <h2>Observation</h2>
-        <p>
-          Early benchmarks suggest that the heuristic reduces processing time significantly for larger graphs.
-        </p>
-      </section>
     </div>
   );
 };
