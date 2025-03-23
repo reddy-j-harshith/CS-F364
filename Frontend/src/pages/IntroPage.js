@@ -64,6 +64,12 @@ const IntroPage = () => {
         title="Dataset 3 Time Comparison"
         color="#ffc658"
       />
+        <h2>Summary of Key Findings:</h2>
+      <ul>
+        <li>The efficiency of each algorithm depends on graph sparsity and structure.</li>
+        <li>Bron-Kerbosch with degeneracy ordering performed best in sparse graphs.</li>
+        <li>Applying these techniques to real-world applications such as fraud detection and network security.</li>
+      </ul>
     </div>
   );
 };
