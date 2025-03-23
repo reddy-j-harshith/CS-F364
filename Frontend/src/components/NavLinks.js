@@ -29,7 +29,7 @@ const NavLinks = () => {
           color: isActive ? '#ffa500' : '#fff'
         })}
       >
-        Procedure Clique
+        Tomita
       </NavLink>
       <NavLink
         to="/algo/2"
@@ -38,7 +38,7 @@ const NavLinks = () => {
           color: isActive ? '#ffa500' : '#fff'
         })}
       >
-        Bron-Kerbosch
+        ELS
       </NavLink>
       <NavLink
         to="/algo/3"
@@ -47,7 +47,7 @@ const NavLinks = () => {
           color: isActive ? '#ffa500' : '#fff'
         })}
       >
-        Arboricity-Based Algorithm
+        Chiba
       </NavLink>
     </div>
   );
