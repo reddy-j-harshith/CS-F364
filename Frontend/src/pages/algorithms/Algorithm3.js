@@ -436,13 +436,6 @@ int main() {
             Validation of O(a(G) * m) complexity on real-world networks.
         </ul>
       </section>
-      
-      <section>
-        <h2>Observation</h2>
-        <p>
-          Tests indicate that the caching mechanism and memory optimizations significantly lower the space complexity, especially on large graphs.
-        </p>
-      </section>
     </div>
   );
 };
