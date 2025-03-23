@@ -158,7 +158,7 @@ int main() {
 
   return (
     <div style={{ padding: '1rem' }}>
-      <h1>Algorithm 1</h1>
+      <h1>Tomita</h1>
       
       <section>
         <h2>Overview</h2>
