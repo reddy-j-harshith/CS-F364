@@ -18,14 +18,15 @@ Data Preprocessing:
 Remove the lines which have start with '#'. And replace the line with the (number of nodes)'\t'(number of edges)
 
 Example for the Email-Enron:
-36692   367662
-0	1
-1	0
-1	2
-1	3
-1	4
-1	5
-...
+
+    36692   367662
+    0	1
+    1	0
+    1	2
+    1	3
+    1	4
+    1	5
+    ...
 
 Website link:
 https://cs-f364.vercel.app/
