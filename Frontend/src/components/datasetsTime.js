@@ -1,21 +1,21 @@
 // Example times for Dataset 1
 export const dataset1Time = [
-    { name: 'Tomita', value: 49 },
-    { name: 'ELS', value: 88 },
-    { name: 'Chiba', value: 87619 } // Dummy placeholder
+    { name: 'Algorithm 1', value: 118.844 },
+    { name: 'Algorithm 2', value: 6479.32 },
+    { name: 'Algorithm 3', value: 300.12 } // Dummy placeholder
   ];
   
   // Example times for Dataset 2
   export const dataset2Time = [
-    { name: 'Tomita', value: 65621.6 },
-    { name: 'ELS', value: 6479 },
-    { name: 'Chiba', value: 272719.8 }
+    { name: 'Algorithm 1', value: 210.5 },
+    { name: 'Algorithm 2', value: 6400.0 },
+    { name: 'Algorithm 3', value: 500.75 }
   ];
   
   // Example times for Dataset 3
   export const dataset3Time = [
-    { name: 'Tomita', value: 66.2 },
-    { name: 'ELS', value: 119 },
-    { name: 'Chiba, value: 195106.3 }
+    { name: 'Algorithm 1', value: 190.0 },
+    { name: 'Algorithm 2', value: 6599.99 },
+    { name: 'Algorithm 3', value: 1024.5 }
   ];
   
