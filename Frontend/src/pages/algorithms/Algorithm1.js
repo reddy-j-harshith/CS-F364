@@ -185,13 +185,6 @@ int main() {
           <li>Show improved performance over standard approaches.</li>
         </ul>
       </section>
-      
-      <section>
-        <h2>Observation</h2>
-        <p>
-          Initial tests indicate that the pivot strategy reduces redundant recursive calls, yielding better performance on sparse graphs.
-        </p>
-      </section>
     </div>
   );
 };
