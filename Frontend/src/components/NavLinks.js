@@ -29,7 +29,7 @@ const NavLinks = () => {
           color: isActive ? '#ffa500' : '#fff'
         })}
       >
-        Algorithm 1
+        Procedure Clique
       </NavLink>
       <NavLink
         to="/algo/2"
@@ -38,7 +38,7 @@ const NavLinks = () => {
           color: isActive ? '#ffa500' : '#fff'
         })}
       >
-        Algorithm 2
+        Bron-Kerbosch
       </NavLink>
       <NavLink
         to="/algo/3"
@@ -47,7 +47,7 @@ const NavLinks = () => {
           color: isActive ? '#ffa500' : '#fff'
         })}
       >
-        Algorithm 3
+        Arboricity-Based Algorithm
       </NavLink>
     </div>
   );
