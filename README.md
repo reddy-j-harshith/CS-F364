@@ -1,15 +1,11 @@
 # CS-F364
 Design and Analysis of Algorithms
-
-
-Paper_2 => ELS
-
 Compilation:
 
 -> Within the root directory,
 
-    g++ Paper_2\ELS.cpp -o els -Ofast
+    g++ Paper_Number\paper_name.cpp -o exec -Ofast
 
 Running:
 
-    ./els
+    ./exec
