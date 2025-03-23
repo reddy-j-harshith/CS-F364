@@ -15,7 +15,7 @@ Running:
     ./exec
 
 Data Preprocessing:
-Remove the lines which have start with '#'. And replace the line with the (number of nodes)'\t'(number of edges)
+Remove the lines which have start with '#'. And replace the line with the (number of nodes)'\t'(number of edges), followed by the rest of the file.
 
 Example for the Email-Enron:
 
